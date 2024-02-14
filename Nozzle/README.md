@@ -10,6 +10,6 @@ Details about geometry, flow conditions, experimental dataset, publications from
 
 [**Publications**]
 
-[**Acknowledgements**]
+[**Acknowledgements**](https://github.com/OSEL-DAM/CFD-and-Blood-Damage-Benchmarks/blob/628c06c809c4fe7179391b17c04fab82cbc9d631/Nozzle/Acknowledgements.docx)
 
 [**Citations using the Benchmarks**]
