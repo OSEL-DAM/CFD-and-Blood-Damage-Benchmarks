@@ -6,12 +6,12 @@ Our benchmark#2 is a simplified centrifugal blood pump. Shown above is an image 
 
 Details about geometry, flow conditions, experimental dataset, publications from the working group, acknowledgements, and citations using the benchmarks are provided in the links below
 
-[**Instructions:**] This zip file has i) Instructions about the geometry files and flow conditions and ii) CAD geometry of the pump
+[**Instructions:**](https://github.com/OSEL-DAM/CFD-and-Blood-Damage-Benchmarks/blob/72446a2a259422380d9ea7913fc9f665174995d4/Blood%20Pump/Blood_Pump_Instructions.zip) This zip file has i) Instructions about the geometry files and flow conditions and ii) CAD geometry of the pump
 
-[**Data:**]
+[**Data:**](https://github.com/OSEL-DAM/CFD-and-Blood-Damage-Benchmarks/tree/72446a2a259422380d9ea7913fc9f665174995d4/Blood%20Pump/Data)
 
-[**Publications:**]
+[**Publications:**](https://github.com/OSEL-DAM/CFD-and-Blood-Damage-Benchmarks/tree/72446a2a259422380d9ea7913fc9f665174995d4/Blood%20Pump/Publications)
 
-[**Acknowledgements:**]
+[**Acknowledgements:**](https://github.com/OSEL-DAM/CFD-and-Blood-Damage-Benchmarks/blob/72446a2a259422380d9ea7913fc9f665174995d4/Blood%20Pump/Acknowledgements.md)
 
-[**Citations using the benchmarks**]
+[**Citations using the benchmarks**](https://github.com/OSEL-DAM/CFD-and-Blood-Damage-Benchmarks/blob/72446a2a259422380d9ea7913fc9f665174995d4/Blood%20Pump/Bibliography.docx)
