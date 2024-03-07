@@ -7,6 +7,8 @@ Authors: Prasanna Hariharan, Richard A. Malinauskas, FDA
  
 doi:10.17917/C78G69
 
+[Hemolysis Data](https://github.com/OSEL-DAM/CFD-and-Blood-Damage-Benchmarks/blob/ca35ecc44137fa6bd0d735190eb836ea0dc0d547/Nozzle/Data/Herbertson_NozzlePump_Hemolysis.docx)
+
 ## A) Sudden Expansion Experimental data 
 
 [SE_exp_0500.zip](https://github.com/OSEL-DAM/CFD-and-Blood-Damage-Benchmarks/blob/ca1b9d584404192814d31b36e52e32fd271e8ea5/Nozzle/Data/SE_exp_0500.zip) - Nozzle Sudden Expansion, Throat Re=500 
