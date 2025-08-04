@@ -19,7 +19,9 @@ The second benchmark model was a centrifugal blood pump designed to have simple 
 
 ### Tool Reference
 •	RST Reference Number: RST24CV11.01
+
 •	Date of Publication: 07/11/2024
+
 •	Recommended Citation: U.S. Food and Drug Administration. (2024). Benchmark dataset for validating computational fluid dynamic (CFD) simulation of blood flow through generalized medical device geometries (RST24CV11.01). https://cdrh-rst.fda.gov/benchmark-dataset-validating-computational-fluid-dynamic-cfd-simulation-blood-flow-through
 
 
