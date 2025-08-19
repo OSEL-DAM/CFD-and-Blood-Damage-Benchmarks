@@ -18,7 +18,7 @@ The second benchmark model was a centrifugal blood pump designed to have simple 
 
 <!-- Benchmark 3 -->
 ## Benchmark 3: Information Coming Soon!
-The third benchmark model was a single-pass micronozzle geometry that can damage blood over a wide range of flow and pressure conditions. This website provides information on the study, geometry details, fluid properties, operating conditions, and hemolysis data, as well as the instruction manuals. 
+
 
 
 ### Tool Reference for Benchmarks 1 and 2
